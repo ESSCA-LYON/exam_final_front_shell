@@ -1,0 +1,25 @@
+Félicitations pour votre promotion à la direction pédagogique.
+
+C'est la fin du trimestre et vous allez devoir convoquer ou non 
+au rattrapage les différents étudiants. Le fichier essca_students, ne doit 
+être modifié sous aucun prétexte. 
+
+Vous devez créer 3 dossiers rattrapage validation redoublement qui contiendra chacun un 
+ficher csv portant le nom du dossier parent avec l'extension .csv
+
+Vous allez devoir créer un fichier nommé rattrapage.csv qui contiendra tous les étudiants
+qui ont une note comprise entre 7 et 9.
+
+Vous allez devoir créer un fichier nommé validation.csv qui contiendra tous les étudiants qui ont
+note une note supérieur à 10.
+
+Vous allez devoir créer un fichier nommé redoublement.csv qui contiendra tous les étudiants qui ont
+une note inférieur à 7.
+
+Pour chaque dossier vous devrez créer les scripts suivants :
+
+count.sh qui contiendra le nombre d'étudiants qui ont validé/redoublé/rattrapge le semestre.
+mail.csv qui contiendra uniquement les mails des étudiants en fonction du dossier parent.
+
+Bon courage
+
